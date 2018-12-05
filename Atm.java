@@ -1,3 +1,4 @@
+/*Author: MacAnthony Ahaotu*/
 import javax.swing.*;
 
 public class Atm
